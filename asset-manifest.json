@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffe90163.css",
+    "main.js": "/static/js/main.15f50ad3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/19033572 Sandesh Shrestha - fyp.pdf": "/static/media/19033572 Sandesh Shrestha - fyp.e7288b117c79ed94a819.pdf",
+    "static/media/6.png": "/static/media/6.18569153812b7f194457.png",
+    "static/media/mix.mp4": "/static/media/mix.3ffd3a433f596ef2964d.mp4",
+    "static/media/5.png": "/static/media/5.a6f039a400584e361664.png",
+    "static/media/94604439873 (2).png": "/static/media/94604439873 (2).350313feb786bf482152.png",
+    "static/media/d.gif": "/static/media/d.fd6670afead498a878da.gif",
+    "static/media/3.jpg": "/static/media/3.60b8d35ba9fd0c8105f4.jpg",
+    "static/media/1.jpg": "/static/media/1.69e03162b28422a5749d.jpg",
+    "static/media/4.jpg": "/static/media/4.efdaaa954b1f6c11cb95.jpg",
+    "static/media/b.png": "/static/media/b.a4d8723efa32252f8860.png",
+    "static/media/2.jpg": "/static/media/2.95762e73478c55a0ec53.jpg",
+    "static/media/7.jpg": "/static/media/7.ea8f1b43a2a1a0d5beea.jpg",
+    "static/media/c.png": "/static/media/c.93facc47fcb83f90c8d6.png",
+    "static/media/a.png": "/static/media/a.1deedc96af68aa26377b.png",
+    "static/media/SANDESH SHRESTHA.pdf": "/static/media/SANDESH SHRESTHA.8f04b672e796ca631fff.pdf",
+    "index.html": "/index.html",
+    "main.ffe90163.css.map": "/static/css/main.ffe90163.css.map",
+    "main.15f50ad3.js.map": "/static/js/main.15f50ad3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe90163.css",
+    "static/js/main.15f50ad3.js"
+  ]
+}
